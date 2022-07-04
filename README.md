@@ -3,7 +3,7 @@
 <h2> About me </h2>
 
 🤖 I’m a Brazilian Fullstack Developer that loves codes in python and all the Javascript frameworks and libraries (particularly React) <br>
-🌱 I’m currently learning typescript and Docker - YOLO right? <br>
+🌱 I’m currently learning Angular - YOLO right? <br>
 👾 Besides code I love to spend my time painting acquarelas and playing video game and table RPG 🧝‍♀️ <br>
 📱 I also dedicate some of my spare time to help Brazilian people to start in the code world by giving tips and advices on my instagram <a href="https://www.instagram.com/in.codes/">@in.codes</a> (check it out!) <br> 
  
@@ -15,6 +15,7 @@ HTML |
 CSS | 
 SASS | 
 JAVASCRIPT  | 
+TYPESCRIPT |
 REACT.JS | 
 PYTHON | 
 FLASK | 
